@@ -25,6 +25,7 @@ package-lock.json
 ENV_CONFIG_LOCAL*
 ### DLL File ###
 manifest.json
-
+/.idea
+/.idea/*
 .themes
 .history
